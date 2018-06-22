@@ -17,3 +17,9 @@ Here's a list of all the routes you'll need.
 
  ### Stretch:
  Add an id field to the object and use that instead of name for all of your routes.
+
+
+
+convert to array
+sift
+ship out in json
